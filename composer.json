@@ -1,5 +1,15 @@
 {
+    "name": "myproject/test",
+    "description": "This project is created for testing purposes",
+    "type": "project",
     "require": {
         "shopexpress/apiclient": "^1.0"
-    }
+    },
+    "license": "No License",
+    "authors": [
+        {
+            "name": "MurphyDownpour",
+            "email": "zaur.akhmedov9595@gmail.com"
+        }
+    ]
 }
